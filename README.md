@@ -37,14 +37,14 @@ employee-directory/
 - **Conditional Rendering**: shows a message if no employees exist in the selected department.
 - **Responsive Layout** using CSS Grid for employee cards.
   
-<h1>Employees are stored in src/data/employeesData.js with the following fields:<h1/>
+<h1>Employees are stored in src/data/employeesData.js with the following fields:<h1/> <br>
 
-id (unique number)
-name
-age
-department (IT, HR, Finance, Marketing)
-designation
-salary
-location
-avatar (emoji used as placeholder)
-cardColor (background for card)
+id (unique number) <br>
+name <br>
+age<br>
+department (IT, HR, Finance, Marketing)<br>
+designation<br>
+salary<br>
+location<br>
+avatar (emoji used as placeholder)<br>
+cardColor (background for card)<br>
