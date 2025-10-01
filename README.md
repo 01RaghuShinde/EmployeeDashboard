@@ -39,12 +39,12 @@ employee-directory/
   
 <h1>Employees are stored in src/data/employeesData.js with the following fields:<h1/> <br>
 
-id (unique number) <br>
-name <br>
-age<br>
-department (IT, HR, Finance, Marketing)<br>
-designation<br>
-salary<br>
-location<br>
-avatar (emoji used as placeholder)<br>
-cardColor (background for card)<br>
+<p>id (unique number) </p><br>
+<p>name </p><br>
+<p>age</p><br>
+<p>department (IT, HR, Finance, Marketing</p>)<br>
+<p>designation</p><br>
+<p>salary</p><br>
+<p>location</p><br>
+<p>avatar (emoji used as placeholder</p>)<br>
+<p>cardColor (background for card</p>)<br>
