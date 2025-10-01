@@ -1,0 +1,57 @@
+.employee-card {
+border-radius: 18px;
+padding: 28px 20px;
+width: 260px;
+box-sizing: border-box;
+box-shadow: 0 6px 18px rgba(18, 20, 22, 0.06);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+.employee-card-inner {
+width: 100%;
+text-align: center;
+}
+
+
+.avatar-square {
+width: 96px;
+height: 96px;
+margin: 0 auto 14px;
+border-radius: 18px;
+background: #ffffff;
+display: flex;
+align-items: center;
+justify-content: center;
+box-shadow: 0 6px 12px rgba(18,20,22,0.04);
+}
+
+
+.avatar {
+font-size: 42px;
+}
+
+
+.emp-name {
+margin: 8px 0 4px;
+font-size: 16px;
+}
+
+
+.emp-designation {
+margin: 0 0 14px;
+color: #6b6b6b;
+font-size: 14px;
+}
+
+
+.emp-meta {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 6px 10px;
+font-size: 13px;
+color: #333333;
+margin-top: 6px;
+}
